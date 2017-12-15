@@ -1,0 +1,45 @@
+body{
+  background-image: url('http://www.thespacewriter.com/orion3.jpg');
+  background-repeat: repeat;
+}
+
+.container{
+  max-width: 80%;
+  margin: 60px auto;
+}
+
+.card{
+  max-width: 500px;
+  background-color: black;
+  margin: auto;
+  border: 4px solid #ffd700;
+  border-radius: 15px;
+}
+
+#card-title{
+  padding: 5px 0px 5px 20px;
+  color: white;
+  border-bottom: 4px solid #ffd700;
+}
+
+#card-content{
+  padding: 0px 0px 5px 20px;
+  color: white;
+  font-size: 16pt;
+}
+
+#button{
+  padding: 10px 20px;
+  font-size: 17pt;
+  color: white;
+  background-color: black;
+  border: 2px solid #ffd700;
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 30px;
+  display: block;
+}
+
+.info{
+  color: #40C1AC;
+}
